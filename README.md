@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **JWspacedesign@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit#heading=h.7s6wjy95bn38](https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit#heading=h.7s6wjy95bn38)
+- 📄 Know about my experiences [https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit?usp=sharing&ouid=111295689769168776488&rtpof=true&sd=true](https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit?usp=sharing&ouid=111295689769168776488&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
