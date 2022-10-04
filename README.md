@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A jack-of-all-trades engineer currently in software engineering.</h3>
 
-- 🔭 I’m currently working on **DigitalHalls, an app to help teachers regain their classroom time.**
+- 🔭 I’m currently working on **ApprisED, an app to help teachers regain their classroom time and communicate with parents.**
 
-- 🌱 I’m currently learning **Materialize CSS and React**
+- 🌱 I’m currently learning **React and TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://jeff-whetzal.netlify.app/](https://jeff-whetzal.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **JWspacedesign@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit?usp=sharing&ouid=111295689769168776488&rtpof=true&sd=true](https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit?usp=sharing&ouid=111295689769168776488&rtpof=true&sd=true)
+- 📄 Learn about my past experiences [here](https://docs.google.com/document/d/16fy9EWxnqgcDN3svfBND_Cg1xWa9p4MQ/edit?usp=sharing&ouid=111295689769168776488&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
